@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![gitartwork](gitartwork.svg)
+![My Name](my_name.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta-06631a28b)
