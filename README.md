@@ -1,5 +1,3 @@
-<h1 style="color:blue;">Hi, I am a Full-Stack Dev and Data Science Enthusiast</h1>
-
 ![My Name](my_name.svg)
 
 ## 🌐 Socials:
