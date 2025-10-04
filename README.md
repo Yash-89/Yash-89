@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am a Full-Stack Dev and Data Science Enthusiast
 
 ![My Name](my_name.svg)
 
