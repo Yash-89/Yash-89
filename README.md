@@ -1,3 +1,5 @@
+<!--![](https://komarev.com/ghpvc/?username=yash-89&color=blueviolet&label=Profile+Views&style=plastic&base=1000)-->
+
 ![My Name](my_name.svg)
 
 ## 🌐 Socials:
