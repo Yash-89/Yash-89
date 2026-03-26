@@ -3,7 +3,7 @@
 ![My Name](my_name.svg)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-gupta-06631a28b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-s-sharma)
 [![An image of @yash89's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yash89)](https://holopin.io/@yash89)
 
 # 💻 Tech Stack:
