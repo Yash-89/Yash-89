@@ -6,6 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-s-sharma)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yash-89.Yash-89" alt="visitor badge" />
 [![An image of @yash89's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yash89)](https://holopin.io/@yash89)
 
 # 💻 Tech Stack:
