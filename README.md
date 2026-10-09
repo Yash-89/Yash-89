@@ -1,5 +1,7 @@
 <!--![](https://komarev.com/ghpvc/?username=yash-89&color=blueviolet&label=Profile+Views&style=plastic&base=1000)-->
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yash-89.Yash-89" alt="visitor badge" />
+
 ![My Name](my_name.svg)
 
 ## 🌐 Socials:
